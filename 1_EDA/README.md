@@ -70,8 +70,6 @@ By querying across these interconnected tables, I extracted insights about skill
 
 ## Analysis Overview
 
-## Analysis Overview
-
 This project analyzes the remote Data Engineering job market to identify the
 most valuable technical skills based on three key dimensions:
 
