@@ -100,7 +100,7 @@ Data Engineering roles.
 
 **Insight:**
 Modern Data Engineering increasingly combines software engineering,
-cloud computing, distributed systems, and data platform management.
+cloud computing, distributed systems, and data platform management together.
 
 ---
 
